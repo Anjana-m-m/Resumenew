@@ -1,0 +1,33 @@
+.container {
+    text-align: centre; 
+}
+
+header {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 20px;
+}
+
+.profile-img {
+    width: 120px; 
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.header-content {
+    text-align: left; 
+}
+
+.header-content h1,
+.header-content p {
+    margin: 5px 10px;
+}
+.heading{
+color :purple;
+}
+body{
+    padding: 20px;
+}
